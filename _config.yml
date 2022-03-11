@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Zhizhou Yin，a man who loves math, travelling and is willing to explore more and more things!~i"
+sidebar-about-description: "Zhizhou Yin，a man who loves math, travelling and is willing to explore more and more things!"
 sidebar-avatar: https://raw.githubusercontent.com/jason8266/jason8266.github.io/master/img/passport_photo.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
