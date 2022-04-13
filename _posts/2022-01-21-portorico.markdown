@@ -11,7 +11,7 @@ tags:
 
 # Day 1
 
-We bought United Airlines to get to the Porto Rico. DUring the whole flight process, it was fun because the Wifi in United Airlines could get access to Wechat app, which is quite common for a Chinese user. 
+We bought United Airlines to get to the Porto Rico. During the whole flight process, it was fun because the Wifi in United Airlines could get access to Wechat app, which is quite common for a Chinese user. 
 ![porto1](/img/in-post/porto1.jpg)
 
 # Day 2
