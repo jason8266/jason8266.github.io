@@ -7,7 +7,7 @@ In the past, I also interned in some of the Chinese private fund company [HighHo
 
 I studied Bachlor of Economics, major in Financial Engineering  at [Nanjing University](https://www.nju.edu.cn/en/main.psp) and MEng, Operation Research and Information Technology (with a focus on Financial Engineering) at [Cornell University](https://www.orie.cornell.edu/orie/cfem).
 
-##### [My LinkedIn website)](https://www.linkedin.com/in/zhizhouyin/?locale=en_US)
+##### [My LinkedIn website](https://www.linkedin.com/in/zhizhouyin/?locale=en_US)
 
 Here is my LinkedIn website. You could find a more comprehensive me in this site.
 
