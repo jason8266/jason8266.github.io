@@ -1,12 +1,10 @@
 ---
-title: "Data Representation - Integer"
-subtitle: "「数据表示」整数"
+title: "Repost from HUX: Data Representation - Integer"
+subtitle: "CS content"
 layout: post
 author: "Hux"
 header-style: text
 tags:
-  - 笔记
-  - 基础
   - C
   - C++
 ---
