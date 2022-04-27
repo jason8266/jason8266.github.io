@@ -103,11 +103,8 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "Huimin Wang",
-        href: "http://mida.re/"
-    },{
         title: "Feng Feng",
-        href: "https://sherrywoo.me/"
+        href: "https://pages.github.coecis.cornell.edu/ff228/ff228.github.io/"
     }
     
 ]
